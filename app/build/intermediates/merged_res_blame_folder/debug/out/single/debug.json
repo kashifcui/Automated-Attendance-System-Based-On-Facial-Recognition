@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_register_face.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_register_face.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_sign_up.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_access_time_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_access_time_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable-v24_btn_back.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable-v24/btn_back.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_profile_screen.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_profile_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_ic_baseline_delete_forever_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/raw_facialrecognition1.json.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/raw/facialrecognition1.json"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable-v24_face_icon2.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable-v24/face_icon2.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_dialog_layout.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_present_item.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/present_item.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_fragment_notificaion.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_notificaion.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_main_screen_view.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/main_screen_view.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_settings_applications_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_settings_applications_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-hdpi_classicon_foreground.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-hdpi/classicon_foreground.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_dash_board.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_dash_board.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_splash_screen.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_menu_add.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/menu_add.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_share_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_share_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_view_attandness.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_view_attandness.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_education.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/education.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xxhdpi_classicon_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xxhdpi/classicon_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_ic_home.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/menu_menu_main.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_ic_notification.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_event_available_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_event_available_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_class_detail.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_class_detail.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_fragment_attandenss__screen_.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_attandenss__screen_.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_about_screen.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_about_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-mdpi_classicon_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-mdpi/classicon_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xxxhdpi_classicon_foreground.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xxxhdpi/classicon_foreground.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_hero.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/hero.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/menu_activity_main_drawer.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_viewattandence.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/viewattandence.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xhdpi_classicon_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xhdpi/classicon_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_fragment_bottom_nav_bar.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_bottom_nav_bar.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_usef.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/usef.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_circle_notifications_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_circle_notifications_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_reminders.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_reminders.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_download_attandness.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_download_attandness.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_courses.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_courses.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_forget_password.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_addattance.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/addattance.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-hdpi_classicon_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-hdpi/classicon_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xxhdpi_classicon_foreground.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xxhdpi/classicon_foreground.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_reminder_layout_item.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/reminder_layout_item.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-mdpi_classicon_foreground.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-mdpi/classicon_foreground.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable-v24_cam.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable-v24/cam.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xxxhdpi_classicon_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xxxhdpi/classicon_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_fragment_rfsd.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_rfsd.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_ic_profile.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable-v24_round_bg.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable-v24/round_bg.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xhdpi_classicon_foreground.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xhdpi/classicon_foreground.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_ic_mark.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/ic_mark.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_showattandence.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/showattandence.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_class_adopter_layout.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/class_adopter_layout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/xml_file_paths.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_add_students_in_class.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_add_students_in_class.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_content_reminders.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/content_reminders.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_register_layout.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/register_layout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_edit_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_app_bar_main.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_kashif.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/kashif.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_attendness.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_attendness.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_bt_back.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/bt_back.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_register_user_item.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/register_user_item.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_attandness_dash_board.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_attandness_dash_board.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_fragment_profile.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_attanceshowrecyclerview.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/attanceshowrecyclerview.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_logout.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/logout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_course_view_layout.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/course_view_layout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_dialog_class_add.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/dialog_class_add.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_login_screen.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_login_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-anydpi-v26_classicon_round.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-anydpi-v26/classicon_round.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_baseline_download_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/baseline_download_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable-v24_baseline_cameraswitch_24.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable-v24/baseline_cameraswitch_24.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_activity_privisey_screen.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_privisey_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_add_course_icon.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/add_course_icon.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_download.png.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/download.png"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/layout_nav_header_main.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-merged_res-40:/drawable_item_back.xml.flat",
+        "source": "com.atharvakale.facerecognition.app-main-42:/drawable/item_back.xml"
+    }
+]

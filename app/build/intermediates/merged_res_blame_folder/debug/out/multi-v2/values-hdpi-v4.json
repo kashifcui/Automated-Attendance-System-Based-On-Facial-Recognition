@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.atharvakale.facerecognition.app-mergeDebugResources-38:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kashi\\.gradle\\caches\\transforms-3\\f7cd9c8c03304dda48536a32fd4eba41\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

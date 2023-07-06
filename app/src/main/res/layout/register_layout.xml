@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="4dp"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Roll No"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:id="@+id/st_roll"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Name"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:id="@+id/name"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Course"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:id="@+id/rollno"/>
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Class"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:id="@+id/className"/>
+
+</LinearLayout>

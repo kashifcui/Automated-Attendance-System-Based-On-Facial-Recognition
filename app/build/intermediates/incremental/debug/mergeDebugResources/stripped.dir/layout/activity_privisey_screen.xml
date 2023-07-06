@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".priviseyScreen">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#673AB7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Privicey Screen"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Privicey Screen"
+        android:textColor="#000"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.182"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout5" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="When it comes to face authentication apps, privacy is an important concern as they often require access to your device's camera and facial recognition capabilities. Here are a few privacy considerations to keep in mind:
+
+Permissions: Before installing any app, review the permissions it requests. Make sure the app only asks for necessary permissions and consider whether the requested access aligns with the functionality it claims to provide. Be cautious if an app asks for excessive permissions that seem unrelated to its purpose.
+
+Data Collection and Storage: Check the app's privacy policy to understand what data it collects and how it is stored. Ensure the app developer has implemented appropriate security measures to protect your personal information. Look for details on whether facial data is stored locally on your device or transmitted to remote servers.
+
+Third-Party Sharing: Be aware of whether the app shares your data with third parties. Determine if the app's privacy policy explicitly states that your facial data will not be shared with any external entities without your consent.
+
+Encryption and Security: Verify that the app uses encryption when transmitting sensitive data over the internet. Look for statements about the security measures in place to protect your facial recognition data from unauthorized access.
+
+Updates and Support: Consider whether the app developer regularly releases updates to address security vulnerabilities or address privacy concerns. Look for clear support channels or contact information to reach out to the developer in case you have any privacy-related questions or concerns.
+
+Regarding app pricing, it can vary depending on the specific app and its features. Some face authentication apps may be available for free, while others might offer a free version with limited functionality and a premium version with additional features at a cost. The pricing details are usually mentioned on the app's website or within the app store listing.
+
+Remember, it's essential to research and choose reputable apps from trusted developers to mitigate potential privacy risks."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

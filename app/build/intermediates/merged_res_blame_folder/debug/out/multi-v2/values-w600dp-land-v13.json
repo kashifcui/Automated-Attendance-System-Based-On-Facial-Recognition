@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.atharvakale.facerecognition.app-mergeDebugResources-38:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kashi\\.gradle\\caches\\transforms-3\\8b1780b6ca1a11fa3a17d251ca142636\\transformed\\material-1.5.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

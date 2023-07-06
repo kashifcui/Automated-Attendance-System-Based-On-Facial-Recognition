@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/present_item.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/present_item.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_courses.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_courses.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/app_bar_main.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/course_view_layout.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/course_view_layout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_splash_screen.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/register_user_item.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/register_user_item.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/fragment_profile.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/dialog_layout.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/fragment_notificaion.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_notificaion.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_reminders.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_reminders.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/fragment_bottom_nav_bar.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_bottom_nav_bar.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_register_face.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_register_face.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_view_attandness.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_view_attandness.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/content_reminders.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/content_reminders.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_add_students_in_class.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_add_students_in_class.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/attanceshowrecyclerview.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/attanceshowrecyclerview.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_dash_board.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_dash_board.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/fragment_attandenss__screen_.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_attandenss__screen_.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_attandness_dash_board.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_attandness_dash_board.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_privisey_screen.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_privisey_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_download_attandness.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_download_attandness.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/fragment_rfsd.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/fragment_rfsd.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_sign_up.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/dialog_class_add.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/dialog_class_add.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/class_adopter_layout.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/class_adopter_layout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_class_detail.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_class_detail.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_profile_screen.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_profile_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_forget_password.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_attendness.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_attendness.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/reminder_layout_item.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/reminder_layout_item.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/register_layout.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/register_layout.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_about_screen.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_about_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/activity_login_screen.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/activity_login_screen.xml"
+    },
+    {
+        "merged": "com.atharvakale.facerecognition.app-mergeDebugResources-39:/layout/nav_header_main.xml",
+        "source": "com.atharvakale.facerecognition.app-main-42:/layout/nav_header_main.xml"
+    }
+]
